@@ -1,5 +1,7 @@
 # dsh-llms-forge
 
+[![npm](https://img.shields.io/npm/v/dsh-llms-forge.svg)](https://www.npmjs.com/package/dsh-llms-forge)
+
 [![CI](https://github.com/zoahdev/dsh-llms-forge/actions/workflows/ci.yml/badge.svg)](https://github.com/zoahdev/dsh-llms-forge/actions)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![dsh-plugin](https://img.shields.io/badge/dsh--plugin-verified-blue)](https://github.com/topics/dsh-plugin)
