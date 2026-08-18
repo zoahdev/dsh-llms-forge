@@ -1,0 +1,9 @@
+# dsh-llms-forge
+
+Generate llms.txt for DeepSeek Harness (dsh) plugin repositories from package.json + README — AI-readable discovery files with zero runtime dependencies.
+
+- Install into dsh: `dsh plugin add dsh-llms-forge`
+- CLI: `npx dsh-llms-forge . --write --overwrite`
+- Agent tool: `llms_forge(dir, options)` — returns dsh-llms-forge/v1 results
+- Read-only by default; writing requires options.write / --write
+- Complements llms-txt-forge (standalone) with an in-harness tool

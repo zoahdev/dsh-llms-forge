@@ -1,0 +1,4 @@
+- insert:
+    - id: llms-forge
+      name: dsh-llms-forge
+      config: {}
